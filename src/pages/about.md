@@ -8,7 +8,7 @@ This theme is aimed to be accessible out of the box. Light and dark mode are sup
 
 This theme is self-documented \_ which means articles/posts in this theme can also be considered as documentations. So, see the documentation for more info.
 
-[![coding dev illustration](/assets/dev.svg)](https://milestone-institute.org/hu/dolgozz-velunk/)
+![coding dev illustration](/assets/dev.svg)
 
 ## Tech Stack
 
